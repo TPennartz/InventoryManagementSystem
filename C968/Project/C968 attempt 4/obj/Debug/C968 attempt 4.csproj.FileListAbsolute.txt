@@ -1,0 +1,14 @@
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968 attempt 4.csproj.AssemblyReference.cache
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968_attempt_4.MainForm.resources
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968_attempt_4.Properties.Resources.resources
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968 attempt 4.csproj.GenerateResource.cache
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968 attempt 4.csproj.CoreCompileInputs.cache
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\bin\Debug\C968 attempt 4.exe.config
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\bin\Debug\C968 attempt 4.exe
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\bin\Debug\C968 attempt 4.pdb
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968 attempt 4.exe
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968 attempt 4.pdb
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968_attempt_4.AddProduct.resources
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968_attempt_4.ModifyPart.resources
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968_attempt_4.ModifyProduct.resources
+C:\Users\Dusty\Desktop\Project\C968 attempt 4\obj\Debug\C968_attempt_4.AddPartScreen.resources
